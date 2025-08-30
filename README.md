@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Sourabh Rajdev 💻</h1>
-<h3 align="center">Passionate Problem Solver | DSA Enthusiast | Machine Learning Engineer</h3>
+<h3 align="center">Passionate Problem Solver | DSA Enthusiast | Machine Learning Engineer</h3>https://github.com/SourabhRajdev/SourabhRajdev/blob/main/README.md
 
 <img align="right" alt="coding" width="400" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif"/>
 
@@ -11,9 +11,7 @@
 	•	🎓 CS undergrad @ VIT — I ship end-to-end: frontend, backend, data.
 	•	🛠️ Recent work: improved uptime and optimized NLP in production.
 	•	🤝 Open to SWE/ML collabs & roles — sourabhrajdev25@gmail.com.
----
 
-### Connect with me:
 <p align="left">
     <a href="https://www.linkedin.com/in/sourabh-rajdev/" target="blank">
         <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Sourabh Rajdev LinkedIn" height="30" width="40" />
