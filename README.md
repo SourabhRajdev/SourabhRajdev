@@ -7,12 +7,10 @@
     <img src="https://komarev.com/ghpvc/?username=sourabhrajdev&label=Profile%20views&color=0e75b6&style=flat" alt="sourabhrajdev" />
 </p>
 
-- 🔭 I’m currently working on **Refining my DSA skills while optimizing NLP models at Outlier.**  
-- 🌱 I’m currently learning **Advanced DSA (Graphs, DP, Trees), System Design, High-Performance Computing.**  
-- 👯 I’m looking to collaborate on **Competitive programming, DSA problems, and open-source contributions.**  
-- 🤝 I’m looking for a **Software Engineering or Machine Learning role.**  
-- 📫 How to reach me **sourabhrajdev25@gmail.com**  
-
+	•	🚀 Building The Daily Affairs — AI-guided, fast, clean news.
+	•	🎓 CS undergrad @ VIT — I ship end-to-end: frontend, backend, data.
+	•	🛠️ Recent work: improved uptime and optimized NLP in production.
+	•	🤝 Open to SWE/ML collabs & roles — sourabhrajdev25@gmail.com.
 ---
 
 ### Connect with me:
