@@ -1,6 +1,6 @@
 <p align="center">
-  <img src="https://raw.githubusercontent.com/SourabhRajdev/SourabhRajdev/main/imagenvidia.jpeg" 
-       width="400" 
+  <img src="https://raw.githubusercontent.com/SourabhRajdev/SourabhRajdev/main/sourabhrajdevgithubnvidia.png" 
+       width="200" 
        style="border-radius: 50%;" />
 </p>
        width="200" 
