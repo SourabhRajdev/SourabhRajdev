@@ -1,48 +1,45 @@
 <h1 align="center">Sourabh Rajdev</h1>
-<p align="center">AI Systems • Software Engineering • Distributed Systems</p>
+<h3 align="center">Software Engineering • AI/ML • Distributed Systems</h3>
 
-<br/>
+<img align="right" alt="coding" width="400" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif"/>
 
-<p>
-Building <b>DailyAffairs.org</b> — an AI-driven news platform with automated content pipelines, multi-region infrastructure, and SEO-driven architecture.
-</p>
-
-<p>
-Designed and deployed production systems handling <b>2,000+ articles</b>, <b>6.4M+ tokens/month</b>, and users across <b>60+ countries</b>.
+<p align="left">
+  <img src="https://komarev.com/ghpvc/?username=sourabhrajdev&label=Profile%20views&color=0e75b6&style=flat" alt="profile views" />
 </p>
 
 <br/>
 
-<p><b>Experience</b></p>
-
 <ul>
-  <li>Software Development Engineer — Denicx</li>
-  <li>Machine Learning Engineering Intern — Outlier AI</li>
-  <li>Software Engineering Intern — TERI</li>
+  <li>Software Development Engineer building automation and distributed systems in production</li>
+  <li>Designed AI-driven systems processing <b>6.4M+ tokens/month</b> with <b>99.5% reliability</b></li>
+  <li>Built workflow automation reducing operational effort by <b>50%+</b></li>
+  <li>Optimized backend systems achieving <b>2–3x performance improvements</b></li>
 </ul>
 
 <br/>
 
-<p><b>Selected Work</b></p>
+<h3>Experience</h3>
 
 <ul>
-  <li>
-    Built event-driven AI pipeline using Pub/Sub and Cloud Functions with 99.5% success rate; reduced recovery time from 45m to 12m
-  </li>
-  <li>
-    Architected microservices infrastructure on GCP Cloud Run with global deployment (US, EU, APAC)
-  </li>
-  <li>
-    Reduced latency from 2.3s to 0.8s using Redis caching and query optimization
-  </li>
-  <li>
-    Built automation systems reducing operational workload by ~50% and improving response speed 2–3x
-  </li>
+  <li><b>Software Development Engineer</b> — Denicx</li>
+  <li><b>ML Engineering Intern</b> — Outlier AI</li>
+  <li><b>Software Engineering Intern</b> — TERI</li>
 </ul>
 
 <br/>
 
-<p><b>Stack</b></p>
+<h3>Systems Built</h3>
+
+<ul>
+  <li>AI task routing system using priority queues and scheduling algorithms</li>
+  <li>Event-driven pipelines with Pub/Sub and distributed processing</li>
+  <li>Full-stack automation systems integrating CRM, APIs, and real-time workflows</li>
+  <li>High-performance backend systems with caching, indexing, and query optimization</li>
+</ul>
+
+<br/>
+
+<h3>Stack</h3>
 
 <p>
 Java • Python • TypeScript • Node.js • React • PostgreSQL • Redis • Docker • Kubernetes • AWS • GCP
@@ -50,9 +47,34 @@ Java • Python • TypeScript • Node.js • React • PostgreSQL • Redis �
 
 <br/>
 
-<p><b>Contact</b></p>
+<h3>Profiles</h3>
+
+<p align="left">
+  <a href="https://www.linkedin.com/in/sourabh-rajdev/" target="_blank">
+    <img src="https://skillicons.dev/icons?i=linkedin" height="40"/>
+  </a>
+  <a href="https://leetcode.com/sourabhrajdev_" target="_blank">
+    <img src="https://skillicons.dev/icons?i=leetcode" height="40"/>
+  </a>
+  <a href="https://medium.com/@sourabhrajdev25" target="_blank">
+    <img src="https://skillicons.dev/icons?i=devto" height="40"/>
+  </a>
+</p>
+
+<br/>
+
+<h3>Stats</h3>
 
 <p>
-<a href="mailto:sourabhrajdev25@gmail.com">sourabhrajdev25@gmail.com</a><br/>
-<a href="https://www.linkedin.com/in/sourabh-rajdev/">LinkedIn</a>
+  <img src="https://github-readme-stats.vercel.app/api?username=sourabhrajdev&show_icons=true&hide_border=true"/>
+</p>
+
+<p>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=sourabhrajdev&layout=compact&hide_border=true"/>
+</p>
+
+<br/>
+
+<p align="center">
+  <b>Building systems that scale. Focused on real-world impact.</b>
 </p>
