@@ -1,6 +1,6 @@
 <!-- Banner -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=200&text=Sourabh%20Rajdev&fontAlign=50&fontAlignY=35&color=0:0f2027,50:203a43,100:2c5364&fontColor=ffffff&fontSize=40" />
+  <img src="[https://capsule-render.vercel.app/api?type=waving&height=200&text=Sourabh%20Rajdev&fontAlign=50&fontAlignY=35&color=0:0f2027,50:203a43,100:2c5364&fontColor=ffffff&fontSize=40"](https://raw.githubusercontent.com/SourabhRajdev/SourabhRajdev/main/imagenvidia.jpeg />
 </p>
 
 <h3 align="center">Software Engineering • AI Systems • Distributed Infrastructure</h3>
