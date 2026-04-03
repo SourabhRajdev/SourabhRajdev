@@ -1,7 +1,7 @@
 <p align="center">
   <img src="https://raw.githubusercontent.com/SourabhRajdev/SourabhRajdev/main/sourabhrajdevgithubnvidia.png" 
        width="200" 
-       style="border-radius: 50%;" />
+       style="border-radius: 400%;" />
 
 </p>
 
