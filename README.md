@@ -2,9 +2,6 @@
   <img src="https://raw.githubusercontent.com/SourabhRajdev/SourabhRajdev/main/sourabhrajdevgithubnvidia.png" 
        width="200" 
        style="border-radius: 50%;" />
-</p>
-       width="200" 
-       style="border-radius: 50%; border: 2px solid #2c5364;" />
 
 </p>
 
