@@ -1,5 +1,8 @@
 <p align="center">
   <img src="https://raw.githubusercontent.com/SourabhRajdev/SourabhRajdev/main/imagenvidia.jpeg" 
+       width="400" 
+       style="border-radius: 50%;" />
+</p>
        width="200" 
        style="border-radius: 50%; border: 2px solid #2c5364;" />
 
