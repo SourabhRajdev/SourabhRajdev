@@ -75,10 +75,9 @@ Worked on production systems handling millions of tokens, real-time workflows, a
 <h3>GitHub</h3>
 
 <p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=sourabhrajdev&show_icons=true&hide_border=true&bg_color=00000000"/>
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sourabhrajdev&layout=compact&hide_border=true&bg_color=00000000"/>
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=sourabhrajdev&show_icons=true&theme=transparent&hide_border=true&cache_seconds=86400" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sourabhrajdev&layout=compact&theme=transparent&hide_border=true&cache_seconds=86400" />
 </p>
-
 <br/>
 
 <!-- Connect -->
