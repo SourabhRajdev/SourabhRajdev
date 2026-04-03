@@ -1,7 +1,6 @@
 <p align="center">
-  <img src="https://raw.githubusercontent.com/SourabhRajdev/SourabhRajdev/main/sourabhrajdevgithubnvidia.png" 
-       width="200" 
-       style="border-radius: 500%;" />
+  <img src="https://raw.githubusercontent.com/SourabhRajdev/SourabhRajdev/main/sourabhrajdevgithubnvidia.png" width="100%" />
+</p>
 
 </p>
 
